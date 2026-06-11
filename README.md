@@ -1,6 +1,6 @@
 # 🔍 Hacker News Brand Monitor
 
-> Track what Hacker News says about any brand — sentiment, topics, and AI summaries, all running locally.
+> Track what Hacker News says about any brand - sentiment, topics, and AI summaries, all running locally.
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)
@@ -20,16 +20,20 @@ Paste any brand name or keyword, and this tool automatically:
 - Displays everything in an interactive Streamlit dashboard with charts
 - Generates AI-written executive summaries for positive feedback, negative feedback, and product suggestions
 
-All AI processing runs **on your machine** — nothing is sent to any external API.
+All AI processing runs **on your machine** - nothing is sent to any external API.
 
 ---
+
+![Dashboard](assets/dashboard.png)
+![Positive Feedback summary example](assets/feedback-img1.png)
+![Negative Feedback summary example](assets/feedback-img2.png)
 
 ## Dashboard Preview
 
 | Feature | Description |
 |---|---|
-| Sentiment Breakdown | Pie chart — Positive / Negative / Neutral |
-| Topic Categories | Bar chart — Bug, Feature Request, Price Complaint, etc. |
+| Sentiment Breakdown | Pie chart - Positive / Negative / Neutral |
+| Topic Categories | Bar chart - Bug, Feature Request, Price Complaint, etc. |
 | Urgency Flags | High / Low urgency per mention |
 | AI Summaries | One-click executive reports via Ollama |
 | Raw Data Table | Full mention history with filters |
