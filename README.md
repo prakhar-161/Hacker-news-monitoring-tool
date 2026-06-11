@@ -30,9 +30,9 @@ All AI processing runs **on your machine** - nothing is sent to any external API
 
 ## App Images
 
-<img src="assets/dashboard.png" width="50%"/>
-<img src="assets/feedback-img1.png" width="50%"/>
-<img src="assets/feedback-img2.png" width="50%"/>
+<img src="assets/dashboard.png" width="70%"/>
+<img src="assets/feedback-img1.png" width="70%"/>
+<img src="assets/feedback-img2.png" width="70%"/>
 
 ---
 
