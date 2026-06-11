@@ -24,9 +24,17 @@ All AI processing runs **on your machine** - nothing is sent to any external API
 
 ---
 
-![Dashboard](assets/dashboard.png)
-![Positive Feedback summary example](assets/feedback-img1.png)
-![Negative Feedback summary example](assets/feedback-img2.png)
+<!-- ![Dashboard](assets/dashboard.png) -->
+<!-- ![Positive Feedback summary example](assets/feedback-img1.png) -->
+<!-- ![Negative Feedback summary example](assets/feedback-img2.png) -->
+
+## App Images
+
+<img src="assets/dashboard.png" width="50%"/>
+<img src="assets/feedback-img1.png" width="50%"/>
+<img src="assets/feedback-img2.png" width="50%"/>
+
+---
 
 ## Dashboard Preview
 
@@ -51,6 +59,10 @@ All AI processing runs **on your machine** - nothing is sent to any external API
 | News API | Algolia HN Search API |
 | Deployment | Docker |
 | Language | Python 3.10 |
+
+---
+
+Docker image is located at - https://hub.docker.com/repository/docker/prxkhxr/hacker-news-monitor/general
 
 ---
 
